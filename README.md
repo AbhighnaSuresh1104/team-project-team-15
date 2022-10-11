@@ -38,7 +38,7 @@ Team Members
  - Sourya
  - Lalitha Ramya
  - Sai Vamsi Dutt Patibandla
- - Abhigna
+ - Abhighna Kapilavai
 
 ### <a href="https://github.com/gopinathsjsu/team-project-code_team15">Github Repo</a>
 
