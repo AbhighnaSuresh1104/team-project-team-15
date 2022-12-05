@@ -55,10 +55,11 @@ Implement an end2end Airport Management system that can be configured for a give
 ## Component diagram
 
 ## Deployment diagram
+![image](https://user-images.githubusercontent.com/100327244/205541945-97b78fc9-9897-4b6a-a1fc-fbd911dc6fab.png)
 
 
 ## UI Wireframes
-- All UI wireframes for each screen in our application are uploaded in a folder called "UI Wireframes" above.
+
 
 ## Scrum
 - We followed 2 Week sprints where we had scrum call each week
