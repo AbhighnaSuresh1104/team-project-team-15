@@ -24,3 +24,6 @@ Implement an end2end Airport Management system that can be configured for a give
 
 ### <a href="https://docs.google.com/spreadsheets/d/1weY_GHhofU0jSJJvLD5lhG5FmmLjOBSH/edit?usp=share_link&ouid=100184353065011251171&rtpof=true&sd=true">Sprint Task Board & Burndown Chart</a>
 
+## Project Journals
+### <a href="https://docs.google.com/document/d/1cpyHVhgdqCCyZ_bRKQo0pA0WiOWOcQ3n/edit?usp=share_link&ouid=100184353065011251171&rtpof=true&sd=true">Entire Team Project Journal</a>
+
