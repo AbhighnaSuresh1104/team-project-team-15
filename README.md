@@ -46,6 +46,7 @@ Implement an end2end Airport Management system that can be configured for a give
 * We values everyone's opinion in the project and setup a meeting to discuss whenever there is a conflict of opinion. 
 
 ## Architecture Diagram
+![image](https://user-images.githubusercontent.com/100327244/205541044-26f5d9ae-8c9b-4aac-b22e-b0244bef73ba.png)
 
 ## DB Design
 
