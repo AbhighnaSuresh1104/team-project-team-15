@@ -70,3 +70,6 @@ React : We used React to make the ui/ux development easier, making components of
 8. Implemented a scheduler to remove gates and baggages automatically after the flights have been departed.
 
 
+## Our Project UI screenshots:
+
+
