@@ -29,7 +29,7 @@ Implement an end2end Airport Management system that can be configured for a give
 
 ## Technology Stack
 - Frontend: ReactJS
-- Backend: Java SpringBoot
+- Backend: Express, Node.js
 - Database: RDS MySQL
 - REST API: Postman(Testing APIs)
 - Cloud: AWS EC2
@@ -65,6 +65,8 @@ Implement an end2end Airport Management system that can be configured for a give
 ## Design Decision
 
 - For Backend:
+NodeJs - Node.js is easily employed as a server-side proxy where it can handle a large amount of simultaneous connections in a non-blocking manner. It’s especially useful for proxying different services with different response times, or collecting data from multiple source points
+
 
 
 - For Frontend: 
