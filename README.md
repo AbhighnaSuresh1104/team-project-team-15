@@ -45,6 +45,20 @@ Implement an end2end Airport Management system that can be configured for a give
 * We conducted our meetings, discussion professionally having respect towards each other.
 * We values everyone's opinion in the project and setup a meeting to discuss whenever there is a conflict of opinion. 
 
+## Architecture Diagram
+
+## DB Design
+
+## Use Case Diagram
+
+## Component diagram
+
+## Deployment diagram
+
+
+## UI Wireframes
+- All UI wireframes for each screen in our application are uploaded in a folder called "UI Wireframes" above.
+
 ## Scrum
 - We followed 2 Week sprints where we had scrum call each week
 
