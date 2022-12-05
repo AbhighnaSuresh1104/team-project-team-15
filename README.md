@@ -44,3 +44,29 @@ Implement an end2end Airport Management system that can be configured for a give
 ###### Respect 
 * We conducted our meetings, discussion professionally having respect towards each other.
 * We values everyone's opinion in the project and setup a meeting to discuss whenever there is a conflict of opinion. 
+
+## Scrum
+- We followed 2 Week sprints where we had scrum call each week
+
+## Design Decision
+
+- For Backend:
+
+
+- For Frontend: 
+React : We used React to make the ui/ux development easier, making components of the application. Dividing entire pages into different components helped us in code maintainability and refactoring.
+
+- For Database/ORM:
+
+
+## Feature Set of our project:
+1. 3 categories of users: Normal customers, Airline employees and Airport Employees. Users to access the System with role based authentication. 
+2. Retrive flight arrivals and departures and gate assignments based on time selected by user. This information can be viewed by all kind of users.
+3. Gate and Baggage Claim information will be displayed in the homepage which can viewed by all kind of users.
+4. Airport Employees: They can enable or disable one or more gates for maintenance.
+5. Airport Employees: They can assign Baggage Carousel number to Arriving flights and the system would prevent conflicting assignments.
+6. Airline Employees: Add or update the schedule of flights belonging to their airlines.
+7. Implemented a scheduler for Random Gate assignment for Arriving and Departing flights. We have designed this to prevent conflicting assignments.
+8. Implemented a scheduler to remove gates and baggages automatically after the flights have been departed.
+
+
