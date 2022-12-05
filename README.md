@@ -62,20 +62,18 @@ Implement an end2end Airport Management system that can be configured for a give
 
 
 ## Scrum
-- We followed 2 Week sprints where we had scrum call each week
+- We used two-week sprints with scrum calls every week.
 
 ## Design Decision
 
 - For Backend:
-NodeJs - Node.js is easily employed as a server-side proxy where it can handle a large amount of simultaneous connections in a non-blocking manner. It’s especially useful for proxying different services with different response times, or collecting data from multiple source points
-
-
+NodeJs:  Node.js can easily be used as a server-side proxy, handling a large number of simultaneous connections in a non-blocking manner. It's particularly useful for proxying different services with varying response times or gathering data from multiple sources.
 
 - For Frontend: 
-React : We used React to make the ui/ux development easier, making components of the application. Dividing entire pages into different components helped us in code maintainability and refactoring.
+React : We used React to simplify ui/ux development by creating application components. We were able to improve code maintainability and refactoring by dividing entire pages into different components.
 
-- For Database/ORM:
-
+- For Database:
+Amazon RDS: We chose RDS because it is simple to set up and use, and it provides excellent support for database synchronization, associations, transactions, and migrations while reducing development time and preventing SQL injections. 
 
 ## Feature Set of our project:
 1. 3 categories of users: Normal customers, Airline employees and Airport Employees. Users to access the System with role based authentication. 
